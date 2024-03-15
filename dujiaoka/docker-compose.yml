@@ -2,7 +2,7 @@ version: "3"
 
 services:
   web:
-    image: stilleshan/dujiaoka
+    image: zswll2/pull/dujiaoka
     environment:
         # - INSTALL=false
         - INSTALL=true
